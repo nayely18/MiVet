@@ -1,9 +1,9 @@
-using Sabio.Data;
-using Sabio.Data.Providers;
-using Sabio.Models.Domain.faq;
-using Sabio.Models.Domain.FAQ;
-using Sabio.Models.Requests.FAQ;
-using Sabio.Services.Interfaces;
+using MiVet.Data;
+using MiVet.Data.Providers;
+using MiVet.Models.Domain.Faq;
+using MiVet.Models.Domain.Faq;
+using MiVet.Models.Requests.Faq;
+using MiVet.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -13,7 +13,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Sabio.Services
+namespace MiVet.Services
 {
     public class FAQService : IFAQService
     {
