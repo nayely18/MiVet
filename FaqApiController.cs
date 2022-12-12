@@ -4,16 +4,16 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Build.Framework;
 using Microsoft.Extensions.Logging;
 using NuGet.DependencyResolver;
-using Sabio.Models.Domain.FAQ;
-using Sabio.Models.Requests.FAQ;
-using Sabio.Services;
-using Sabio.Services.Interfaces;
-using Sabio.Web.Controllers;
-using Sabio.Web.Models.Responses;
+using MiVet.Models.Domain.FAQ;
+using MiVet.Models.Requests.FAQ;
+using MiVet.Services;
+using MiVet.Services.Interfaces;
+using MiVet.Web.Controllers;
+using MiVet.Web.Models.Responses;
 using System;
 using System.Collections.Generic;
 
-namespace Sabio.Web.Api.Controllers
+namespace MiVet.Web.Api.Controllers
 {
     [Route("api/faqs")]
     [ApiController]
