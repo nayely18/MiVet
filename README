@@ -1,4 +1,4 @@
-https://mivet.azurewebsites.net/faq
+
 
  ###FAQ page for MiVet an online platform for equine vetenary services that streamlines communication, facilitates bill payment and schedueling of appointments. 
 MiVet is an MVP and due to the propiertary nature of the code I can only provide code snippets of my code. This repository contains SQL, .Net, and React code. 
@@ -18,4 +18,4 @@ My role was to build an interactive FAQ Page that renders Questions and Answers 
 ◉	Created new branches to maining organization and performed commits and pull requests to secure cosistency.
 ◉	Participated in daily stand-ups, code reviews, and code talks with team members to ensure cohesive implementation of code.
 
-
+https://mivet.azurewebsites.net/faq
