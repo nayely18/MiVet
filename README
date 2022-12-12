@@ -1,13 +1,12 @@
 
 
- ###FAQ page for MiVet an online platform for equine vetenary services that streamlines communication, facilitates bill payment and schedueling of appointments. 
+FAQ page for MiVet an online platform for equine vetenary services that streamlines communication, facilitates bill payment and schedueling of appointments. 
 MiVet is an MVP and due to the propiertary nature of the code I can only provide code snippets of my code. This repository contains SQL, .Net, and React code. 
 
-###Task
+
 
 My role was to build an interactive FAQ Page that renders Questions and Answers from DB as well as the FAQ from which allows administrators to modify questions as necessary . I was required to handle all the coding from the backend to the frontend. 
 
-###Criteria
 
 ◉	Developed and strucled the FAQ page and form from front-end to back-end.
 ◉	Build the API endpoints with .NET using C# and throurghly tested with Postman.
